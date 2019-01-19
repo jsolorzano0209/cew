@@ -1,0 +1,39 @@
+
+/*---------------------------------------------------------*/
+/* Universal Buy Button                                    */
+/*---------------------------------------------------------*/
+
+.mbt-book-buybuttons .mbt-universal-buybutton,
+.mbt-book-buybuttons .mbt-universal-buybutton:link,
+.mbt-book-buybuttons .mbt-universal-buybutton:visited,
+.mbt-book-buybuttons .mbt-universal-buybutton:hover,
+.mbt-book-buybuttons .mbt-universal-buybutton:active {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+	color: #0F0B10 !important;
+	text-align: center;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+
+	border: 1px solid #ACA9A1;
+	border-radius: 5px;
+
+	background: #ece3c5;
+	background: -moz-linear-gradient(top,  #ece3c5 0%, #f8f7f2 50%, #e4dfcb 51%, #f4f1e5 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ece3c5), color-stop(50%,#f8f7f2), color-stop(51%,#e4dfcb), color-stop(100%,#f4f1e5));/
+	background: -webkit-linear-gradient(top,  #ece3c5 0%,#f8f7f2 50%,#e4dfcb 51%,#f4f1e5 100%);
+	background: -o-linear-gradient(top,  #ece3c5 0%,#f8f7f2 50%,#e4dfcb 51%,#f4f1e5 100%);
+	background: -ms-linear-gradient(top,  #ece3c5 0%,#f8f7f2 50%,#e4dfcb 51%,#f4f1e5 100%);
+	background: linear-gradient(to bottom,  #ece3c5 0%,#f8f7f2 50%,#e4dfcb 51%,#f4f1e5 100%);
+}
+
+/*---------------------------------------------------------*/
+/* Button Styling                                          */
+/*---------------------------------------------------------*/
+
+.mbt-book .mbt-primary-button,
+.mbt-book .mbt-primary-button:link,
+.mbt-book .mbt-primary-button:visited {
+	background-color: #EBE3C2;
+	color: black;
+}

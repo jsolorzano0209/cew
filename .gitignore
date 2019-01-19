@@ -1,0 +1,14 @@
+/*
+/*/
+!/.gitignore
+!/.htaccess
+!/*.php
+!/sql
+!/wp-admin
+!/wp-content
+!/wp-includes
+error_log
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/plugins/w3-total-cache/
+/wp-content/plugins/nextgen-facebook/cache/
