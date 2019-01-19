@@ -305,3 +305,10 @@
 [Sat, 19 Jan 2019 20:23:21 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/customize.php?return=%2Fwp-admin%2Fwidgets.php] skip processing because of generic constant
 [Sat, 19 Jan 2019 20:25:14 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/widgets.php] skip processing because of generic constant
 [Sat, 19 Jan 2019 20:25:22 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/customize.php?return=%2Fwp-admin%2Fwidgets.php] skip processing because of generic constant
+[Sat, 19 Jan 2019 20:27:15 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/widgets.php] skip processing because of generic constant
+[Sat, 19 Jan 2019 20:27:22 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/customize.php?return=%2Fwp-admin%2Fwidgets.php] skip processing because of generic constant
+[Sat, 19 Jan 2019 20:29:15 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/widgets.php] skip processing because of generic constant
+[Sat, 19 Jan 2019 20:29:15 +0000] [/wp-cron.php?doing_wp_cron=1547929755.7892899513244628906250] [http://cewstaging.jonwp.dvp/wp-cron.php?doing_wp_cron=1547929755.7892899513244628906250] skip processing because of generic constant
+[Sat, 19 Jan 2019 20:29:22 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/customize.php?return=%2Fwp-admin%2Fwidgets.php] skip processing because of generic constant
+[Sat, 19 Jan 2019 20:31:16 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/widgets.php] skip processing because of generic constant
+[Sat, 19 Jan 2019 20:31:23 +0000] [/wp-admin/admin-ajax.php] [http://cewstaging.jonwp.dvp/wp-admin/customize.php?return=%2Fwp-admin%2Fwidgets.php] skip processing because of generic constant
