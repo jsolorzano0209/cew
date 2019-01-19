@@ -1,0 +1,2368 @@
+# Translation of Plugins - MyBookTable Bookstore by Author Media - Development (trunk) in Czech
+# This file is distributed under the same license as the Plugins - MyBookTable Bookstore by Author Media - Development (trunk) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - MyBookTable Bookstore by Author Media - "
+"Development (trunk)\n"
+"POT-Creation-Date: 2018-03-28 21:57-0500\n"
+"PO-Revision-Date: 2018-03-28 22:12-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: includes/admin_pages.php:30
+msgid "Select"
+msgstr "Vybrat"
+
+#: includes/admin_pages.php:31
+msgid "Post Title"
+msgstr ""
+
+#: includes/admin_pages.php:32
+msgid "Post Date"
+msgstr ""
+
+#: includes/admin_pages.php:33 includes/extras/shortcodes.php:303
+#: includes/taxonomies.php:28 includes/templates.php:491
+#: includes/templates.php:971
+msgid "Author"
+msgstr "Autor"
+
+#: includes/admin_pages.php:34 includes/extras/shortcodes.php:245
+#: includes/taxonomies.php:49 includes/templates.php:493
+#: includes/templates.php:978
+msgid "Genre"
+msgstr "Žánr"
+
+#: includes/admin_pages.php:35 includes/extras/shortcodes.php:274
+#: includes/taxonomies.php:91 includes/templates.php:497
+#: includes/templates.php:985
+msgid "Tag"
+msgstr "Štítek"
+
+#: includes/admin_pages.php:36 includes/admin_pages.php:57
+#: includes/admin_pages.php:979 includes/extras/shortcodes.php:216
+#: includes/extras/shortcodes.php:359 includes/extras/widgets.php:182
+#: includes/extras/widgets.php:229 includes/taxonomies.php:69
+#: includes/taxonomies.php:70 includes/templates.php:495
+#: includes/templates.php:941
+msgid "Series"
+msgstr "Serie"
+
+#: includes/admin_pages.php:37 includes/metaboxes.php:40
+msgid "Series Order"
+msgstr ""
+
+#: includes/admin_pages.php:38
+msgid "Ascending"
+msgstr "Vzestupně"
+
+#: includes/admin_pages.php:39
+msgid "Descending"
+msgstr "Sestupně"
+
+#: includes/admin_pages.php:40
+msgid "Import Interrupted"
+msgstr ""
+
+#: includes/admin_pages.php:41
+msgid "Import Complete"
+msgstr ""
+
+#: includes/admin_pages.php:42
+msgid "Successfully imported"
+msgstr ""
+
+#: includes/admin_pages.php:43
+#, php-format
+msgid "Switch to %s mode"
+msgstr "Přepnout na mód %s"
+
+#: includes/admin_pages.php:44
+msgid "Set the priority (order) of the authors"
+msgstr "Nastavit seřazení autorů podle priority"
+
+#: includes/admin_pages.php:45
+msgid "Edit the main author bio"
+msgstr "Upravit bio hlavního autora"
+
+#: includes/admin_pages.php:52 includes/admin_pages.php:943
+#: includes/admin_pages.php:1017
+msgid "MyBookTable"
+msgstr "MyBookTable"
+
+#: includes/admin_pages.php:53 includes/admin_pages.php:976
+#: includes/functions.php:43 includes/functions.php:139
+#: includes/post_types.php:18 includes/post_types.php:20 includes/setup.php:77
+msgid "Books"
+msgstr "Knihy"
+
+#: includes/admin_pages.php:54
+msgid "Add Book"
+msgstr "Přidat Knihu"
+
+#: includes/admin_pages.php:55 includes/admin_pages.php:977
+#: includes/extras/shortcodes.php:359 includes/extras/widgets.php:187
+#: includes/extras/widgets.php:227 includes/taxonomies.php:27
+#: includes/templates.php:971
+msgid "Authors"
+msgstr "Autory"
+
+#: includes/admin_pages.php:56 includes/admin_pages.php:978
+#: includes/extras/shortcodes.php:359 includes/extras/widgets.php:180
+#: includes/extras/widgets.php:228 includes/taxonomies.php:48
+#: includes/templates.php:978
+msgid "Genres"
+msgstr "Žánry"
+
+#: includes/admin_pages.php:58 includes/admin_pages.php:980
+#: includes/extras/shortcodes.php:359 includes/extras/widgets.php:184
+#: includes/extras/widgets.php:230 includes/taxonomies.php:90
+#: includes/templates.php:985
+msgid "Tags"
+msgstr "Značky"
+
+#: includes/admin_pages.php:59 includes/admin_pages.php:969
+msgid "Import Books"
+msgstr "Importovat Knihy"
+
+#: includes/admin_pages.php:60 includes/admin_pages.php:255
+#: includes/admin_pages.php:666
+msgid "MyBookTable Settings"
+msgstr "Nastavení MyBookTable"
+
+#: includes/admin_pages.php:60 includes/admin_pages.php:981 mybooktable.php:126
+msgid "Settings"
+msgstr "Nastavení"
+
+#: includes/admin_pages.php:61 includes/admin_pages.php:723
+msgid "MyBookTable Help"
+msgstr "Pomoc MyBookTable"
+
+#: includes/admin_pages.php:61 mybooktable.php:127
+msgid "Help"
+msgstr "Nápověda"
+
+#: includes/admin_pages.php:64
+msgid "Upgrade"
+msgstr "v \"aktualizaci\""
+
+#: includes/admin_pages.php:64
+msgid "Upgrade MyBookTable"
+msgstr "Vylepšit MyBookTable"
+
+#: includes/admin_pages.php:182
+msgid "Valid License Key"
+msgstr "Platní Licenční Klíč"
+
+#: includes/admin_pages.php:186
+msgid "Invalid License Key"
+msgstr "Špatný licenční klíč"
+
+#: includes/admin_pages.php:194
+msgid "Valid API Key"
+msgstr "Platný API Klíč"
+
+#: includes/admin_pages.php:257
+msgid "Settings saved"
+msgstr "Nastavení uložené"
+
+#: includes/admin_pages.php:265
+msgid "Setup"
+msgstr "Nastavit"
+
+#: includes/admin_pages.php:266
+msgid "Style"
+msgstr "Styl"
+
+#: includes/admin_pages.php:267
+msgid "Promote"
+msgstr "Promovat"
+
+#: includes/admin_pages.php:268
+msgid "Earn"
+msgstr "Vydělat"
+
+#: includes/admin_pages.php:269
+msgid "Integrate"
+msgstr "Integrovat"
+
+#: includes/admin_pages.php:270
+msgid "Troubleshoot"
+msgstr "Potíže"
+
+#: includes/admin_pages.php:276
+msgid "MyBookTable License Key"
+msgstr "MyBookTable Licenční Klíč"
+
+#: includes/admin_pages.php:282
+msgid ""
+"If you have purchased an License Key for MyBookTable, enter it here to "
+"activate your enhanced features. You can find it in your <a href=\"https://"
+"gumroad.com/library/\" target=\"_blank\">Gumroad Library here</a>. If you "
+"would like to purchase an License key visit <a href=\"http://www.authormedia."
+"com/mybooktable/\">AuthorMedia.com/MyBookTable</a>."
+msgstr ""
+"Pokud jste si zakoupili Licenční Klíč pro MyBookTable, vložte jej sem re "
+"aktivaci vašich vylepšených funkcí. Můžete ho najít na <a href=\"https://"
+"gumroad.com/library/\" target=\"_blank\"> Gumroad Knihovny zde </a>. Pokud "
+"byste chtěli zakoupit Licenční klíč navštivte <a href=\"http://www."
+"authormedia.com/mybooktable/\"> AuthorMedia.com/MyBookTable </a>."
+
+#: includes/admin_pages.php:286
+msgid "Book Table Page"
+msgstr "Book Table Stránka"
+
+#: includes/admin_pages.php:289 includes/extras/widgets.php:128
+#: includes/extras/widgets.php:226 includes/metaboxes.php:575
+msgid "-- Choose One --"
+msgstr "-- Vyberte Jedno --"
+
+#: includes/admin_pages.php:295
+msgid "Click here to create a Book Table page"
+msgstr "Klikněte sem pro vytvoření Book Table stránky"
+
+#: includes/admin_pages.php:297
+msgid "Remove Book Table page"
+msgstr "Odstránit Book Table stránku"
+
+#: includes/admin_pages.php:299
+msgid "The Book Table page is the main landing page for your books."
+msgstr "Book Table stránka je hlavní stránkou pro vaše knihy."
+
+#: includes/admin_pages.php:304
+msgid "Example Books"
+msgstr "Vzorové Knihy"
+
+#: includes/admin_pages.php:306
+msgid "Click here to create example books"
+msgstr "Klikněte sem pro vytvoření vzorové knihy "
+
+#: includes/admin_pages.php:307
+msgid ""
+"These examples will help you learn how to set up Genres, Series, Authors, "
+"and Books of your own."
+msgstr ""
+"Tyto vzory vám pomohou naučit se, jak nastavit Žánry, Řada, Autory a Vaše "
+"vlastní Knihy"
+
+#: includes/admin_pages.php:312
+msgid "Compatability Mode"
+msgstr "Mód Kompatibility"
+
+#: includes/admin_pages.php:315
+msgid ""
+"Checked = More Compatible Out of the Box. Unchecked = More Developer Control."
+msgstr ""
+"Označené = kompatibilnější Mimo Boxu. Neoznačený = Více Kontroly Developerem"
+
+#: includes/admin_pages.php:319
+msgid "MyBookTable Product Name"
+msgstr "MyBookTable Jméno Produktu"
+
+#: includes/admin_pages.php:322
+msgid ""
+"You can use this to change the \"books\" slug used in the book page urls if "
+"you are selling something other than books, such as \"DVDs\", \"Movies\", or "
+"simply \"Products\"."
+msgstr ""
+"Můžete to udělat pro změnu \"knihy\" použitých na url stránek knihy pokud "
+"prodáváte něco jiného, než knihy, jako například \"DVD\", \"Firmy\", nebo "
+"prostě \"Produkty\"."
+
+#: includes/admin_pages.php:326
+msgid "Usage Tracking"
+msgstr "Využití Sledování"
+
+#: includes/admin_pages.php:329
+msgid "Disable Tracking"
+msgstr "Zakázat Sledování"
+
+#: includes/admin_pages.php:330
+msgid ""
+"Thanks for helping to improve MyBookTable by letting it log ananymous data "
+"about your usage patterns."
+msgstr ""
+"Děkujeme, že pomáháte zlepšovat My Book Table povolením zaznamenávat "
+"anonymní data o vašem používání"
+
+#: includes/admin_pages.php:332
+msgid "Enable Tracking"
+msgstr "Povolit Sledování"
+
+#: includes/admin_pages.php:333
+msgid ""
+"Help improve MyBookTable by letting it log ananymous data about your usage "
+"patterns."
+msgstr ""
+"Pomozte zlepšit BookTable povolením zaznamenávat anonymní data o vašem "
+"užívání."
+
+#: includes/admin_pages.php:340 includes/admin_pages.php:470
+#: includes/admin_pages.php:554 includes/admin_pages.php:584
+#: includes/admin_pages.php:602 includes/extras/booksorting.php:145
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: includes/admin_pages.php:349 includes/admin_pages.php:414
+msgid "Style Pack"
+msgstr "Stylový Balík"
+
+#: includes/admin_pages.php:361
+msgid "Choose the style pack you would like for your buy buttons."
+msgstr "Vybrat stylový balík, který by jste chceli pro vaše tlačítka koupě."
+
+#: includes/admin_pages.php:365
+msgid "Buy Button Sizes"
+msgstr "Velikost Tlačítka Koupit"
+
+#: includes/admin_pages.php:366 includes/admin_pages.php:431
+#: includes/extras/widgets.php:103
+msgid "Small"
+msgstr "Malé"
+
+#: includes/admin_pages.php:366 includes/admin_pages.php:431
+#: includes/extras/widgets.php:103
+msgid "Medium"
+msgstr "Střední"
+
+#: includes/admin_pages.php:366 includes/admin_pages.php:431
+#: includes/extras/widgets.php:103
+msgid "Large"
+msgstr "Velké"
+
+#: includes/admin_pages.php:368
+msgid "Book Pages"
+msgstr "Stránky Knihy"
+
+#: includes/admin_pages.php:376
+msgid "Select the size of the buy buttons on book pages."
+msgstr "Vybrat velikost tlačítka na stránky knihy"
+
+#: includes/admin_pages.php:379
+msgid "Book Listings"
+msgstr "Seznam Knih"
+
+#: includes/admin_pages.php:387
+msgid "Select the size of the buy buttons on book listings."
+msgstr "Vybrat velikost tlačítka koupit na seznam knih."
+
+#: includes/admin_pages.php:390
+msgid "Widgets"
+msgstr "Widgety"
+
+#: includes/admin_pages.php:398
+msgid "Select the size of the buy buttons on widgets."
+msgstr "Vybrat velikost tlačítka koupit na widget"
+
+#: includes/admin_pages.php:402
+msgid "Buy Button Shadow Box"
+msgstr "Koupit Tlačítko Shadow Box"
+
+#: includes/admin_pages.php:404
+msgid "Nowhere"
+msgstr "Nikde"
+
+#: includes/admin_pages.php:405
+msgid "Book Listings Only"
+msgstr "Jenom Seznam Knih"
+
+#: includes/admin_pages.php:406
+msgid "Everywhere"
+msgstr "Všudy"
+
+#: includes/admin_pages.php:407
+msgid ""
+"Replace store buy buttons with a single \"Buy Now\" button that loads a "
+"shadow box with all the buttons within it."
+msgstr ""
+"Nahradit tlačítka obchodu pro koupi jediným tlačítkem \"Koupit Teď\", které "
+"nahraje stínový box se všemi tlačítky."
+
+#: includes/admin_pages.php:411
+msgid "Upload New Style Pack"
+msgstr "Nahrát Nový Stylový Balík"
+
+#: includes/admin_pages.php:414 includes/metaboxes.php:303
+#: includes/taxonomies.php:155 includes/taxonomies.php:166
+msgid "Upload"
+msgstr "Nahrát"
+
+#: includes/admin_pages.php:415
+#, php-format
+msgid ""
+"If you would like to make your own style pack you can learn how from our <a "
+"href=\"%s\" target=\"_blank\">developer documentation</a>."
+msgstr ""
+"Pokud byste chtěli svůj vlastní stylový balíček, můžete se to naučit z naší "
+"<a href=\"%s\" target=\"_blank\"> dokumentace vývoji </a>."
+
+#: includes/admin_pages.php:429
+msgid "Book Image Size"
+msgstr "Velikost Obrázku Knihy"
+
+#: includes/admin_pages.php:437
+msgid ""
+"Book Images in MyBookTable respond to mobile devices regardless of which "
+"size you select."
+msgstr ""
+"Knižní Obrázky v My Book Table odpovídají na mobilní zařízení nezávisle na "
+"velikosti, kterou vyberete."
+
+#: includes/admin_pages.php:441
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: includes/admin_pages.php:444 includes/admin_pages.php:578
+#: includes/setup.php:368
+msgid "Enable"
+msgstr "Povolit"
+
+#: includes/admin_pages.php:445
+msgid ""
+"Breadcrumbs make your website easier to navigate for both humans and search "
+"engines. Uncheck this box if MyBookTable's breadcrumb system is conflicting "
+"with your theme."
+msgstr ""
+"Breadcrumbs zjednodušují navigaci na vaší web stránce pro lidi a "
+"vyhledávače. Neoznačte tento box pokud chcete aby breadcrumb systém v "
+"MyBookTable nespolupracoval s vaším tématem."
+
+#: includes/admin_pages.php:459
+msgid "Number of Books per Page"
+msgstr "Počet Knih na Stranu"
+
+#: includes/admin_pages.php:462
+msgid "Choose the number of books to show per page on the book listings."
+msgstr "Vybrat počet knih na ukázání na straně na seznamu knih."
+
+#: includes/admin_pages.php:476
+msgid "Search Engine Optimization"
+msgstr "Optimalizace Vyhledávaní"
+
+#: includes/admin_pages.php:479
+msgid "Use MyBookTable's built-in SEO features"
+msgstr "Použít MyBookTable zabudované SEO funkce"
+
+#: includes/admin_pages.php:480
+msgid ""
+"Let MyBookTable's built in search engine optimization do the work for you."
+msgstr ""
+"Dovolte MyBookTable zabudovanou optimalizaci vyhledávání pracovat za vás."
+
+#: includes/admin_pages.php:484
+msgid "Book Reviews"
+msgstr "Hodnocení Knihy"
+
+#: includes/admin_pages.php:501
+msgid ""
+"Select the reviews provider that will be displayed under each book with a "
+"valid ISBN."
+msgstr ""
+"Vyberte poskytovatele hodnocení, který bude zakázán pod každou knihou s "
+"platným ISBN"
+
+#: includes/admin_pages.php:506
+msgid "Check Reviews"
+msgstr "Zkontrolovat Hodnocení"
+
+#: includes/admin_pages.php:507
+msgid "Use this tool to check if your books will be able to display reviews."
+msgstr ""
+"Použijte tento nástroj pro kontrolu, zda jsou vaše knihy dostupné pro náhled "
+"na hodnocení."
+
+#: includes/admin_pages.php:513
+msgid "Social Media"
+msgstr "Sociálne Médiá"
+
+#: includes/admin_pages.php:516 includes/admin_pages.php:526
+#: includes/admin_pages.php:547
+msgid "Show on Book Pages"
+msgstr "Ukázat na Strany Knihy"
+
+#: includes/admin_pages.php:518
+msgid "Show on Book Listings"
+msgstr "Ukázat na Seznam Knih"
+
+#: includes/admin_pages.php:519
+msgid "Check to enable MyBookTable's social media buttons."
+msgstr "Označte pro povolení BookTable tlačítek sociálních sítí."
+
+#: includes/admin_pages.php:523
+msgid "\"Find a Local Bookstore\" Form"
+msgstr "\"Najít Lokální Knihovnu\" Forma"
+
+#: includes/admin_pages.php:528
+msgid "Show in Buy Buttons Shadow Box"
+msgstr ""
+
+#: includes/admin_pages.php:530
+msgid ""
+"If checked, show a form that helps your readers find places to buy your book "
+"will display under each book."
+msgstr ""
+
+#: includes/admin_pages.php:531
+msgid "You must enter your Google Maps API Key for this feature to work"
+msgstr ""
+
+#: includes/admin_pages.php:536
+msgid "Cross Promote Books in a Series"
+msgstr ""
+
+#: includes/admin_pages.php:539
+msgid "Show books"
+msgstr ""
+
+#: includes/admin_pages.php:540
+msgid ""
+"If checked, the other books in the same series will display under the book "
+"on that book's page."
+msgstr ""
+
+#: includes/admin_pages.php:544
+msgid "\"About the Author\" Section"
+msgstr " Sekce \"O Autoru\""
+
+#: includes/admin_pages.php:548
+msgid ""
+"If checked, show a section on the book page that displays information about "
+"the book author."
+msgstr ""
+"Pokud označené, ukázat sekci na stránce knihy, která ukazuje informace o "
+"autorovi knihy."
+
+#: includes/admin_pages.php:561
+msgid "Disclosure of Material Connection Disclaimer"
+msgstr ""
+
+#: includes/admin_pages.php:566
+msgid "Hide Disclosure of Material Connection Disclaimer?"
+msgstr ""
+
+#: includes/admin_pages.php:576
+msgid "Amazon and Barnes &amp; Noble Buy Buttons enabled!"
+msgstr ""
+
+#: includes/admin_pages.php:576
+msgid "Disable"
+msgstr "Zakázáno"
+
+#: includes/admin_pages.php:578
+msgid "Amazon and Barnes &amp; Noble Buy Buttons disabled!"
+msgstr ""
+
+#: includes/admin_pages.php:580
+msgid "What does this mean?"
+msgstr ""
+
+#: includes/admin_pages.php:591
+msgid "Google Maps API"
+msgstr "Google Maps API "
+
+#: includes/admin_pages.php:597
+#, php-format
+msgid ""
+"Insert your Google Maps API Key to <a href=\"%s\">enable the Find Local "
+"Bookstore Form</a> on your book pages."
+msgstr ""
+"Vložte svá Google Maps API Klíč pro <a href=\"%s\"> povolení Najít Místní "
+"Knihkupectví Formu</a> na vaší stránce knihy"
+
+#: includes/admin_pages.php:597
+msgid "Learn how to get a Google Maps API Key"
+msgstr "Zjistite jak získat Googe Maps API Klíč"
+
+#: includes/admin_pages.php:617
+msgid "MailChimp"
+msgstr ""
+
+#: includes/admin_pages.php:634
+msgid "Amazon Web Services"
+msgstr ""
+
+#: includes/admin_pages.php:651
+msgid "Genius Link"
+msgstr "Genius Link "
+
+#: includes/admin_pages.php:669
+msgid ""
+"MyBookTable comes with over a dozen buy buttons from stores around the web. "
+"Several of these buttons, including the ones for Amazon and Barnes &amp; "
+"Noble, use affiliate links. The revenue from these links is used to help "
+"support and improve the MyBookTable plugin. If you would like to use your "
+"own affiliate links, we have premium upgrades that come not only with "
+"affiliate integration but with premium support as well. You may also disable "
+"these buttons if you prefer."
+msgstr ""
+
+#: includes/admin_pages.php:674
+msgid "Enable Affiliate Buttons"
+msgstr ""
+
+#: includes/admin_pages.php:675
+msgid "Disable Affiliate Buttons"
+msgstr ""
+
+#: includes/admin_pages.php:676
+msgid "Buy a Premium Upgrade with Affiliate support"
+msgstr "Koupit Prémiové Vylepšení pro Affiliate podporu"
+
+#: includes/admin_pages.php:679
+msgid "Go to Affiliate Settings"
+msgstr "Jít do Affiliate Nastavení"
+
+#: includes/admin_pages.php:699
+msgid "Path error while adding style pack!"
+msgstr "Chyba cesty pri přidávaní stylového balení!"
+
+#: includes/admin_pages.php:707
+msgid "Successfully added button pack!"
+msgstr "Úspěšně přidáno tlačítko balení!"
+
+#: includes/admin_pages.php:709
+msgid "Error unzipping style pack!"
+msgstr "Chyba rozbalování stylového balení!"
+
+#: includes/admin_pages.php:727
+msgid ""
+"Need to find or manage your <strong>License Key</strong>?<br>Access through "
+"Gumroad"
+msgstr ""
+"Potřebujete najít, nebo zvládnout své<strong>Licenční Klíč</strong>?"
+"<br>Přistupte cez Gumroad"
+
+#: includes/admin_pages.php:730
+msgid ""
+"Have <strong>questions or comments</strong>?<br>Check out the Support Forum"
+msgstr ""
+"Máte <strong>otázky, nebo komentáre</strong>?<br>Zkontrolujte naše Forum "
+"Podpory"
+
+#: includes/admin_pages.php:733
+msgid ""
+"Looking for <strong>developer documentation</strong>?<br>Find it on Github"
+msgstr ""
+"Hledání <strong>vývojové dokumentace </strong>?<br> Naleznete jí na Github"
+
+#: includes/admin_pages.php:739
+msgid "Need Premium Support? Purchase an upgrade here"
+msgstr "Potřebujete Prémium Podporu? Zde si zakoupte vylepšení"
+
+#: includes/admin_pages.php:742
+msgid "Premium Support Options"
+msgstr "Možnosti Prémium Podpory"
+
+#: includes/admin_pages.php:745
+msgid "Submit a Ticket"
+msgstr "Odeslat Tiket"
+
+#: includes/admin_pages.php:746
+msgid "Visit the Support Forum"
+msgstr "Navštívit Forum Podpory"
+
+#: includes/admin_pages.php:747
+msgid "Suggest a Feature"
+msgstr "Navrhnout Funkci"
+
+#: includes/admin_pages.php:748
+msgid "Submit a Bug"
+msgstr "Odeslat Bug"
+
+#: includes/admin_pages.php:766
+msgid "MyBookTable Tutorials"
+msgstr "Tutoriály MyBookTably"
+
+#: includes/admin_pages.php:814
+msgid "Tutorial Videos"
+msgstr "Tutorial Videá"
+
+#: includes/admin_pages.php:896
+msgid "General WordPress Guides &amp; Tutorials"
+msgstr "Všeoběcný WordPress Pruvodce &amp; Tutorialy"
+
+#: includes/admin_pages.php:950
+msgid "More Tutorial Videos"
+msgstr "Více Tutoriál Videí"
+
+#: includes/admin_pages.php:955 includes/post_types.php:21
+#: includes/post_types.php:22
+msgid "Add New Book"
+msgstr "Přidat Novou Knihu"
+
+#: includes/admin_pages.php:960
+msgid "Welcome to MyBookTable!"
+msgstr "Vítejte do MyBookTable!"
+
+#: includes/admin_pages.php:963
+msgid "First Steps"
+msgstr "První Kroky"
+
+#: includes/admin_pages.php:966
+msgid "Look at some example Books"
+msgstr "Podívejte se na některé příklady Knih"
+
+#: includes/admin_pages.php:968
+msgid "Create your first book"
+msgstr "Vytvořit vaší prvou knihu"
+
+#: includes/admin_pages.php:970
+msgid "View your Book Table"
+msgstr "Nahlédnout do vaší Book Table"
+
+#: includes/admin_pages.php:974
+msgid "Actions"
+msgstr "Akce"
+
+#: includes/admin_pages.php:976 includes/admin_pages.php:977
+#: includes/admin_pages.php:978 includes/admin_pages.php:979
+#: includes/admin_pages.php:980 includes/admin_pages.php:981
+msgid "Manage"
+msgstr "Zpravovat"
+
+#: includes/admin_pages.php:985
+msgid "Resources"
+msgstr "Sdroje"
+
+#: includes/admin_pages.php:987
+msgid "Get help using MyBookTable"
+msgstr "Získejte pomoc použitím MyBookTable"
+
+#: includes/admin_pages.php:988
+msgid "Developer Documentation"
+msgstr "Dokumentace Vývoje"
+
+#: includes/admin_pages.php:989
+msgid "Sign Up for Book Marketing Tips from Author Media"
+msgstr "Přihlásit se na Tipy Marketingu Knih od Autora Médií"
+
+#: includes/admin_pages.php:990
+msgid "Plugin Founders"
+msgstr "Zakladatelé Plugin-u"
+
+#: includes/admin_pages.php:1000
+msgid "Book Marketing Tips from Author Media"
+msgstr "Tipy na Marketing Knih od Author Media"
+
+#: includes/admin_pages.php:1005
+msgid "Recent News from Author Media"
+msgstr "Aktuální Zprávy z Author Media"
+
+#: includes/admin_pages.php:1015
+msgid "Current Version"
+msgstr "Současná verze"
+
+#: includes/admin_pages.php:1017
+msgid "You are currently using"
+msgstr "Aktuálně používáte"
+
+#: includes/admin_pages.php:1019
+msgctxt "You are currently using MyBookTable (with the) Developer Upgrade."
+msgid "with the"
+msgstr "s"
+
+#: includes/admin_pages.php:1020
+msgid "Developer Upgrade"
+msgstr "Vylepšením Developera"
+
+#: includes/admin_pages.php:1021
+msgid "Professional Upgrade"
+msgstr "Profesionální Aktualizací"
+
+#: includes/admin_pages.php:1025 includes/admin_pages.php:1028
+#: includes/admin_pages.php:1031 includes/admin_pages.php:1034
+#: includes/admin_pages.php:1037 includes/admin_pages.php:1040
+msgid "Thank you for your support!"
+msgstr "Ďakujeme za vaší podporu!"
+
+#: includes/admin_pages.php:1044
+msgid "Upgrade your MyBookTable and get:"
+msgstr "Aktualizovat váš MyBookTable a získejte:"
+
+#: includes/admin_pages.php:1046
+msgid "Premium Support"
+msgstr "Prémiová Podpora"
+
+#: includes/admin_pages.php:1047
+msgid "Amazon Affiliate Integration"
+msgstr "Amazon Affiliate Integrace"
+
+#: includes/admin_pages.php:1048
+msgid "Barnes &amp; Noble Affiliate Integration"
+msgstr "Barnes &amp; Noble Affiliate Integrace"
+
+#: includes/admin_pages.php:1049
+msgid "Universal Buy Button"
+msgstr "Univerzální Tlačidlo Koupě"
+
+#: includes/admin_pages.php:1050
+msgid "And much much more"
+msgstr "A mnohem mnohem více"
+
+#: includes/admin_pages.php:1060
+msgid "Promotions"
+msgstr "Promoce"
+
+#: includes/admin_pages.php:1092
+msgid "Get Upgrade"
+msgstr "Získat Aktualizaci"
+
+#: includes/admin_pages.php:1097
+msgid "Plugin successfully activated."
+msgstr "Plugin úspěšně aktivován."
+
+#: includes/admin_pages.php:1135
+msgid ""
+"An error occurred while trying to retrieve the plugin from the server. "
+"Please check your License Key."
+msgstr ""
+"Došlo k chybě při pokusu o získání pluginu ze serveru. Prosím zkontrolujte "
+"svůj Licenční Klíč."
+
+#: includes/admin_pages.php:1136
+msgid ""
+"Sorry, but you do not have the correct permissions to install plugins. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+"Promiňte, ale nemáte dostatečná oprávnění pro instalaci pluginů. Kontaktujte "
+"administrátora této stránky pro pomoc s instalací pluginu."
+
+#: includes/admin_pages.php:1152
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalace Pluginu: %s"
+
+#: includes/admin_pages.php:1170
+msgid "You have no Upgrades available to download at this time."
+msgstr "Nemáte dostupné žádné Aktualizace pro stažení."
+
+#: includes/admin_pages.php:1184
+msgid "Back to Dashboard"
+msgstr "Zpět na palubní desku"
+
+#: includes/admin_pages.php:1198
+msgid "MyBookTable Founders"
+msgstr "Zakladatelé MyBookTable"
+
+#: includes/admin_pages.php:1199
+msgid ""
+"This plugin was made possible by some adventurous kickstarters. We are so "
+"grateful for the members of the writing community who backed our Kickstarter "
+"project and helped us launch this plugin! Below are the ones who sponsored "
+"at the $75 level or higher. Thank you for your support!"
+msgstr ""
+"Tento plugin byl vytvořen dobrodružnými Kickstarter. Jsme tak vděčný členům "
+"komunity, kteří podpořili náš Kicksktartekr projekt a pomohli nám spustit "
+"tento plugin! Níže jsou ti, kteří nás sponzorovaly $ 75 a více. Děkujeme za "
+"vaši podporu!"
+
+#: includes/admin_pages.php:1329
+msgid "The following books will be imported:"
+msgstr "Následující knihy budou importovány:"
+
+#: includes/admin_pages.php:1335
+msgid "Are you sure you want to import these books?"
+msgstr "Jste si jistý, že chcete importovat tyto knihy?"
+
+#: includes/admin_pages.php:1336 includes/admin_pages.php:1342
+#: includes/extras/customimport.php:32
+msgid "Import"
+msgstr "Importovat"
+
+#: includes/admin_pages.php:1339
+msgid "Importer error! Unable to render import form."
+msgstr "Importační chyba! Nemožno rendrovat importační formu."
+
+#: includes/admin_pages.php:1345
+msgid ""
+"Importer error! Please ensure your MyBookTable Upgrade plugins are updated."
+msgstr ""
+"Importační chyba! Prosím ujistěte se, že vaše My Book Table Vylepšení plugin "
+"jsou aktualizovány."
+
+#: includes/admin_pages.php:1361
+msgid "Import error:"
+msgstr "Chyba importu:"
+
+#: includes/admin_pages.php:1375
+msgid "Please wait, your books are importing..."
+msgstr "Počkejte prosím, vaše knihy se importují ..."
+
+#: includes/admin_pages.php:1378
+msgid "Stop Import"
+msgstr "Zastavit Import"
+
+#: includes/admin_pages.php:1381
+msgid "Continue"
+msgstr "Pokračovat"
+
+#: includes/buybuttons.php:52 includes/extras/universalbuybutton.php:25
+msgid "Paste in the product URL for this item."
+msgstr ""
+
+#: includes/buybuttons.php:52 includes/extras/universalbuybutton.php:25
+msgid "Learn more about adding Buy Button links."
+msgstr ""
+
+#: includes/buybuttons.php:53
+#, php-format
+msgid "Search for books on %s."
+msgstr "Hledat knihy na %s."
+
+#: includes/buybuttons.php:61 includes/buybuttons.php:63
+#: includes/buybuttons.php:666 includes/buybuttons.php:668
+#, php-format
+msgid "Buy from %s"
+msgstr "Koupit od %s"
+
+#: includes/buybuttons.php:110
+msgid "Valid Affiliate Token"
+msgstr "Platný Affiliate Token"
+
+#: includes/buybuttons.php:112
+msgid "Invalid Affiliate Token"
+msgstr "Neplatný Affiliate Token"
+
+#: includes/buybuttons.php:131
+msgid "iTunes Affiliates"
+msgstr "iTunes Affiliates"
+
+#: includes/buybuttons.php:142
+msgid "Affiliate Token:"
+msgstr "Affiliate Token"
+
+#: includes/buybuttons.php:145
+msgid ""
+"You can find your iTunes Affiliate Token by visiting your <a href=\"http://"
+"affiliate.itunes.apple.com/signin\" target=\"_blank\">iTunes Affiliates "
+"page</a>. The code should be near the top left of the screen."
+msgstr ""
+"Můžete najít své iTunes Affiliate Token navštívíte vaší <a href=\"http://"
+"affiliate.itunes.apple.com/signin\" target=\"_blank\"> iTunes Affiliates "
+"page </a>.\n"
+"Kód by měl být v levém vrchu obrazovky."
+
+#: includes/buybuttons.php:146
+msgid "Disable iTunes Affiliate System"
+msgstr "Zakázat iTunes Affiliate System"
+
+#: includes/buybuttons.php:180
+msgid "Valid Partner ID"
+msgstr ""
+
+#: includes/buybuttons.php:182
+msgid "Invalid Partner ID"
+msgstr ""
+
+#: includes/buybuttons.php:201
+msgid "Powell's Affiliates"
+msgstr ""
+
+#: includes/buybuttons.php:211
+msgid "Partner ID:"
+msgstr ""
+
+#: includes/buybuttons.php:214
+msgid ""
+"You can find your Powell's Partner ID by visiting your <a href=\"http://www."
+"powells.com/myaccount\" target=\"_blank\">Powell's Account page</a> and "
+"clicking the \"Manage Partner\" link under \"Partner Program\"."
+msgstr ""
+
+#: includes/buybuttons.php:215
+msgid "Disable Powell's Affiliate System"
+msgstr ""
+
+#: includes/buybuttons.php:262
+msgid "Valid Affiliate ID"
+msgstr ""
+
+#: includes/buybuttons.php:264
+msgid "Invalid Affiliate ID"
+msgstr ""
+
+#: includes/buybuttons.php:283
+msgid "IndieBound Affiliates"
+msgstr ""
+
+#: includes/buybuttons.php:293
+msgid "Affiliate ID:"
+msgstr ""
+
+#: includes/buybuttons.php:296
+msgid ""
+"You can find your IndieBound Affiliate ID by visiting your <a href=\"https://"
+"www.indiebound.org/affiliate\" target=\"_blank\">IndieBound Affiliates page</"
+"a> and clicking \"Create your affiliate links\"."
+msgstr ""
+
+#: includes/buybuttons.php:297
+msgid "Disable IndieBound Affiliate System"
+msgstr ""
+
+#: includes/buybuttons.php:335
+msgid "Amazon Associates"
+msgstr "Amazon Associates"
+
+#: includes/buybuttons.php:372
+msgid "LinkShare"
+msgstr "LinkShare"
+
+#: includes/buybuttons.php:407
+msgid "Commission Junction"
+msgstr "Commission Junction"
+
+#: includes/buybuttons.php:494 includes/buybuttons.php:542
+#: includes/buybuttons.php:600 includes/buybuttons.php:725
+msgid "Valid Genius Link"
+msgstr "Platný Genius Link"
+
+#: includes/buybuttons.php:496
+msgid "Invalid Amazon product link"
+msgstr "Neplatný Amazon odkaz produktu"
+
+#: includes/buybuttons.php:498
+msgid "Valid Amazon product link"
+msgstr "Platný Amazon odkaz produktu"
+
+#: includes/buybuttons.php:546 includes/buybuttons.php:553
+msgid "Invalid Audible product link"
+msgstr "Neplatný Audible produktový odkaz"
+
+#: includes/buybuttons.php:548 includes/buybuttons.php:551
+msgid "Valid Audible product link"
+msgstr "Platný Audible produktový odkaz"
+
+#: includes/buybuttons.php:602
+msgid "Invalid Barnes &amp; Noble product link"
+msgstr "Neplatný Barnes &amp; Noble odkaz produktu"
+
+#: includes/buybuttons.php:604
+msgid "Valid Barnes &amp; Noble product link"
+msgstr "Platný Barnes &amp; Noble odkaz produktu"
+
+#: includes/buybuttons.php:687
+msgid "Sign up and Learn more about Celery Pre-Orders"
+msgstr ""
+
+#: includes/buybuttons.php:727
+msgid "Invalid product link"
+msgstr "Neplatný produktový odkaz"
+
+#: includes/buybuttons.php:729
+msgid "Valid product link"
+msgstr "Platný produktový odkaz"
+
+#: includes/extras/booksorting.php:10 includes/extras/booksorting.php:120
+msgid "Sort Books"
+msgstr ""
+
+#: includes/extras/booksorting.php:123
+msgid "Attribute Sorting"
+msgstr ""
+
+#: includes/extras/booksorting.php:130
+msgid "Sort"
+msgstr ""
+
+#: includes/extras/booksorting.php:136
+msgid "Manual Sorting"
+msgstr ""
+
+#: includes/extras/booksorting.php:143
+msgid ""
+"Manual book sorting is not supported for more than 300 books. Please use "
+"Attribute Sorting."
+msgstr ""
+
+#: includes/extras/booksorting.php:155
+msgid "No books to sort!"
+msgstr ""
+
+#: includes/extras/breadcrumbs.php:36
+msgid "Home"
+msgstr ""
+
+#: includes/extras/customimport.php:16
+msgid "MyBookTable Import/Export"
+msgstr "MyBookTable Import/Export"
+
+#: includes/extras/customimport.php:17
+msgid "Import or Export your book data for backups or site transfer."
+msgstr "Import nebo Export vaších dat o knize pro zálohu nebo transfer stránky"
+
+#: includes/extras/customimport.php:28
+msgid "Export"
+msgstr "Export"
+
+#: includes/extras/customimport.php:107
+#, php-format
+msgid "Book \"%s\" already exists"
+msgstr "Kniha \"%s\" již existuje"
+
+#: includes/extras/divi.php:16
+msgid "Divi Post Settings"
+msgstr ""
+
+#: includes/extras/getnoticed.php:56
+msgid "GetNoticed"
+msgstr ""
+
+#: includes/extras/getnoticed.php:57
+msgid "Import your books from the GetNoticed theme."
+msgstr ""
+
+#: includes/extras/getnoticed.php:58
+msgid "GetNoticed Import"
+msgstr ""
+
+#: includes/extras/goodreads.php:13
+msgid "You must input your GoodReads Developer Key"
+msgstr ""
+
+#: includes/extras/goodreads.php:46
+msgid "Valid Developer Key"
+msgstr ""
+
+#: includes/extras/goodreads.php:48
+msgid "Invalid Developer Key"
+msgstr ""
+
+#: includes/extras/goodreads.php:60
+msgid "GoodReads"
+msgstr ""
+
+#: includes/extras/goodreads.php:66
+#, php-format
+msgid ""
+"Insert your GoodReads Developer Key to <a href=\"%s\">enable GoodReads "
+"reviews</a> on your book pages."
+msgstr ""
+
+#: includes/extras/goodreads.php:66
+msgid "Learn how to get a GoodReads Developer Key"
+msgstr ""
+
+#: includes/extras/goodreads.php:97
+msgid "No ISBN entered."
+msgstr "ISBN nebylo vloženo."
+
+#: includes/extras/goodreads.php:103 includes/metaboxes.php:246
+msgid "Valid ISBN"
+msgstr "Platné ISBN číslo"
+
+#: includes/extras/goodreads.php:103 includes/metaboxes.php:246
+#: includes/metaboxes.php:273
+msgid "(verify book)"
+msgstr ""
+
+#: includes/extras/goodreads.php:105 includes/metaboxes.php:248
+msgid "Invalid ISBN"
+msgstr "Nesprávny ISBN"
+
+#: includes/extras/seo.php:378
+msgid "SEO Title:"
+msgstr ""
+
+#: includes/extras/seo.php:382
+#, php-format
+msgid ""
+"Title display in search engines is limited to 70 characters, %s characters "
+"left."
+msgstr ""
+
+#: includes/extras/seo.php:386
+msgid "Meta Description:"
+msgstr ""
+
+#: includes/extras/seo.php:389
+#, php-format
+msgid ""
+"The meta description will be limited to 156 characters, %s characters left."
+msgstr ""
+
+#: includes/extras/seo.php:410
+msgid "SEO Information"
+msgstr ""
+
+#: includes/extras/shortcodes.php:195
+msgid "All Books"
+msgstr ""
+
+#: includes/extras/shortcodes.php:196
+msgid "List all your books in an embedded book listing."
+msgstr ""
+
+#: includes/extras/shortcodes.php:199 includes/extras/shortcodes.php:228
+#: includes/extras/shortcodes.php:257 includes/extras/shortcodes.php:286
+#: includes/extras/shortcodes.php:315
+msgid "Header"
+msgstr "Hlavička"
+
+#: includes/extras/shortcodes.php:205 includes/extras/shortcodes.php:234
+#: includes/extras/shortcodes.php:263 includes/extras/shortcodes.php:292
+#: includes/extras/shortcodes.php:321
+msgid "Max Books to Display"
+msgstr "Ukázat maximalní počet knih "
+
+#: includes/extras/shortcodes.php:212
+msgid "All Books in Series"
+msgstr ""
+
+#: includes/extras/shortcodes.php:213
+msgid "List all the books in a given series in an embedded book listing."
+msgstr ""
+
+#: includes/extras/shortcodes.php:241
+msgid "All Books in Genre"
+msgstr ""
+
+#: includes/extras/shortcodes.php:242
+msgid "List all the books in a given genre in an embedded book listing."
+msgstr ""
+
+#: includes/extras/shortcodes.php:270
+msgid "All Books with Tag"
+msgstr ""
+
+#: includes/extras/shortcodes.php:271
+msgid "List all the books with a given tag in an embedded book listing."
+msgstr ""
+
+#: includes/extras/shortcodes.php:299
+msgid "All Books by Author"
+msgstr ""
+
+#: includes/extras/shortcodes.php:300
+msgid ""
+"List all the books written by a given author in an embedded book listing."
+msgstr ""
+
+#: includes/extras/shortcodes.php:328
+msgid "Single Book"
+msgstr ""
+
+#: includes/extras/shortcodes.php:329
+msgid "Show a given book in an embedded book listing."
+msgstr ""
+
+#: includes/extras/shortcodes.php:332 includes/post_types.php:19
+msgid "Book"
+msgstr ""
+
+#: includes/extras/shortcodes.php:338 includes/extras/shortcodes.php:362
+msgid "Display Style"
+msgstr ""
+
+#: includes/extras/shortcodes.php:341
+msgid "Default"
+msgstr "Výchozí"
+
+#: includes/extras/shortcodes.php:341
+msgid "Summary"
+msgstr ""
+
+#: includes/extras/shortcodes.php:341 includes/metaboxes.php:35
+msgid "Buy Buttons"
+msgstr ""
+
+#: includes/extras/shortcodes.php:341
+msgid "Cover and Buy Buttons"
+msgstr "Zadní a Kupní Tlačítko"
+
+#: includes/extras/shortcodes.php:352
+msgid "All Terms in Taxonomy"
+msgstr ""
+
+#: includes/extras/shortcodes.php:353
+msgid ""
+"This allows you to display all of the different items in a MyBookTable "
+"taxonomy."
+msgstr ""
+
+#: includes/extras/shortcodes.php:356
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/extras/shortcodes.php:365
+msgid "Listing"
+msgstr ""
+
+#: includes/extras/shortcodes.php:365
+msgid "Menu Bar"
+msgstr ""
+
+#: includes/extras/shortcodes.php:365
+msgid "Simple"
+msgstr ""
+
+#: includes/extras/shortcodes.php:403 includes/extras/shortcodes.php:634
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/extras/shortcodes.php:490 includes/setup.php:495
+msgid "Close"
+msgstr "Zavřít"
+
+#: includes/extras/shortcodes.php:517
+msgid "Insert a Shortcode"
+msgstr ""
+
+#: includes/extras/shortcodes.php:522
+msgid "To get started, select a shortcode from the list on the left."
+msgstr ""
+
+#: includes/extras/shortcodes.php:631
+msgid "Cancel"
+msgstr ""
+
+#: includes/extras/totallybooked.php:12
+msgid "Totally Booked"
+msgstr ""
+
+#: includes/extras/totallybooked.php:13
+msgid "Import your books from the Totally Booked plugin."
+msgstr ""
+
+#: includes/extras/universalbuybutton.php:23
+msgid "Button Text:"
+msgstr ""
+
+#: includes/extras/universalbuybutton.php:24
+msgid "Button URL:"
+msgstr ""
+
+#: includes/extras/widgets.php:22
+msgid "Displays featured or random books."
+msgstr ""
+
+#: includes/extras/widgets.php:23
+msgid "MyBookTable Featured Books"
+msgstr ""
+
+#: includes/extras/widgets.php:24
+msgid "Featured Books"
+msgstr ""
+
+#: includes/extras/widgets.php:99 includes/extras/widgets.php:221
+msgid "Title"
+msgstr "Titulek"
+
+#: includes/extras/widgets.php:102
+msgid "Book image size:"
+msgstr ""
+
+#: includes/extras/widgets.php:111
+msgid "Show book blurb"
+msgstr ""
+
+#: includes/extras/widgets.php:115
+msgid "Use shadow box for Buy Buttons"
+msgstr ""
+
+#: includes/extras/widgets.php:118
+msgid "Choose how to select the featured books:"
+msgstr ""
+
+#: includes/extras/widgets.php:120
+msgid "Most Recent Books"
+msgstr "Nejnovější knihy"
+
+#: includes/extras/widgets.php:121
+msgid "Choose Manually"
+msgstr "Zvol manuálně"
+
+#: includes/extras/widgets.php:122
+msgid "Random Books"
+msgstr "Náhodné knihy"
+
+#: includes/extras/widgets.php:126
+msgid "Select Books:"
+msgstr "Zvolit knihy"
+
+#: includes/extras/widgets.php:138 includes/metaboxes.php:580
+msgid "Add"
+msgstr "Pčidat"
+
+#: includes/extras/widgets.php:154
+msgid "Number of Books:"
+msgstr "Pořet knih"
+
+#: includes/extras/widgets.php:171
+msgid "A list of Authors, Genres, Series, or Tags."
+msgstr "Seznam Autorů, žánrů, sérií nebo štítků"
+
+#: includes/extras/widgets.php:172
+msgid "MyBookTable Taxonomy Widget"
+msgstr "V idget Taxonomie"
+
+#: includes/extras/widgets.php:224
+msgid "Displayed taxonomy"
+msgstr "Zobrazená taxonomie"
+
+#: includes/extras/widgets.php:235
+msgid "Show post counts"
+msgstr ""
+
+#: includes/functions.php:44 includes/functions.php:144 includes/setup.php:78
+msgctxt "URL slug"
+msgid "books"
+msgstr ""
+
+#: includes/functions.php:46 includes/setup.php:82
+msgid ""
+"Disclosure of Material Connection: Some of the links in the page above are "
+"\"affiliate links.\" This means if you click on the link and purchase the "
+"item, I will receive an affiliate commission. I am disclosing this in "
+"accordance with the Federal Trade Commission's <a href=\"http://www.access."
+"gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html\" target=\"_blank\">16 CFR, "
+"Part 255</a>: \"Guides Concerning the Use of Endorsements and Testimonials "
+"in Advertising.\""
+msgstr ""
+
+#: includes/functions.php:154
+msgid "Amazon Reviews"
+msgstr ""
+
+#: includes/functions.php:266
+msgid "Book Page"
+msgstr ""
+
+#: includes/functions.php:313
+msgid "Unnamed"
+msgstr ""
+
+#: includes/functions.php:320
+msgid "Storefront"
+msgstr ""
+
+#: includes/functions.php:321
+msgid "Beautiful Page"
+msgstr ""
+
+#: includes/functions.php:393
+#, php-format
+msgid "Book updated."
+msgid_plural "%s books updated."
+msgstr[0] "Kniha aktualizována"
+msgstr[1] "%s aktualizovaných knih"
+msgstr[2] "%s aktualizovaných knih"
+
+#: includes/functions.php:448
+msgid "Amazon Bulk Book Importer"
+msgstr ""
+
+#: includes/functions.php:449
+msgid "Import your books in bulk from Amazon with a list of ISBNs."
+msgstr ""
+
+#: includes/functions.php:453
+msgid "UIEE File"
+msgstr ""
+
+#: includes/functions.php:454
+msgid ""
+"Import your books from a UIEE (Universal Information Exchange Environment) "
+"File."
+msgstr ""
+
+#: includes/functions.php:924
+msgid "Unable to connect to server!"
+msgstr ""
+
+#: includes/functions.php:932 includes/functions.php:983
+msgid "Invalid response received from server"
+msgstr ""
+
+#: includes/functions.php:947
+msgid "Valid for MyBookTable Developer 3.0"
+msgstr "Platné pro MyBookTable Developer 3.0"
+
+#: includes/functions.php:951
+msgid "Valid for MyBookTable Professional 3.0"
+msgstr "Platné pro MyBookTable Professional 3.0 "
+
+#: includes/functions.php:955
+msgid "Valid for MyBookTable Developer 2.0"
+msgstr ""
+
+#: includes/functions.php:959
+msgid "Valid for MyBookTable Professional 2.0"
+msgstr ""
+
+#: includes/functions.php:963
+msgid "Valid for MyBookTable Developer 1.0"
+msgstr ""
+
+#: includes/functions.php:967
+msgid "Valid for MyBookTable Professional 1.0"
+msgstr ""
+
+#: includes/functions.php:970
+msgid "Permissions error!"
+msgstr ""
+
+#: includes/functions.php:975
+msgid "Key not found"
+msgstr ""
+
+#: includes/functions.php:979
+msgid "Key has been deactivated"
+msgstr ""
+
+#: includes/functions.php:1025 includes/functions.php:1041
+msgid "Upgrade your MyBookTable to enable these advanced features!"
+msgstr "Upgradujte své MyBookTable povolit tyto rozšířené funkce!"
+
+#: includes/functions.php:1027
+msgid "Thank you for purchasing a MyBookTable Upgrade!"
+msgstr "Děkujeme, že jste si zakoupili MyBookTable upgrade!"
+
+#: includes/functions.php:1027
+msgid "Get premium support."
+msgstr "Získat prémiovou podporu"
+
+#: includes/functions.php:1030
+msgid ""
+"Download your MyBookTable Upgrade plugin to enable your advanced features!"
+msgstr "Stáhnout NyBookTable aktualizační plugin k rozšíření na všechny funkce"
+
+#: includes/functions.php:1036
+msgid "Insert your License Key to enable your advanced features!"
+msgstr "Zadejj licenční kód"
+
+#: includes/functions.php:1038
+msgid "Update your License Key to enable your advanced features!"
+msgstr "Aktualizuj Licenřní kód k rozšíření funkcí"
+
+#: includes/metaboxes.php:33
+msgid "Book Blurb"
+msgstr "Záložka"
+
+#: includes/metaboxes.php:34
+msgid "Book Details"
+msgstr "Kniha v detailu"
+
+#: includes/metaboxes.php:36 templates/single-book-singlecolumn/overview.php:3
+#: templates/single-book-storefront/overview.php:3
+msgid "About the Book"
+msgstr "O Knize"
+
+#: includes/metaboxes.php:37 includes/templates.php:1392
+msgid "Endorsements"
+msgstr "Odporučení"
+
+#: includes/metaboxes.php:38 includes/metaboxes.php:681
+#: includes/templates.php:1403
+msgid "Book Club Resources"
+msgstr "Sdroje Knižního Klubu"
+
+#: includes/metaboxes.php:39 includes/metaboxes.php:726
+#: includes/templates.php:1410
+msgid "Audio Book Resources"
+msgstr ""
+
+#: includes/metaboxes.php:41
+msgid "Section Order"
+msgstr "Sekce Objednávok"
+
+#: includes/metaboxes.php:160
+msgid "Teaser Text:"
+msgstr "Text Tízru"
+
+#: includes/metaboxes.php:165
+#, php-format
+msgid ""
+"Book Blurbs are hand-crafted summaries of your book. The goal of a book "
+"blurb is to convince strangers that they need buy your book in 100 words or "
+"less. Answer the question \"why would I want to read this book?\" <a href="
+"\"%s\" target=\"_blank\">Learn more about writing your book blurb.</a>"
+msgstr ""
+
+#: includes/metaboxes.php:184
+msgid "Image:"
+msgstr "Obrázek:"
+
+#: includes/metaboxes.php:187
+msgid "Choose"
+msgstr "Vybrat"
+
+#: includes/metaboxes.php:193
+msgid ""
+"The About the Book section is a longer description of your book. This "
+"typically includes all the text from the back cover of the book plus, "
+"endorsements and any other promotional materials from interior flaps or "
+"initial pages. This is also a good place to embed a book trailer if you have "
+"one."
+msgstr ""
+"Sekce O Knize je delší popis vaší knihy. Toto typicky zahrnuje veškerý text "
+"od zadní strany knihy plus poděkování a jakékoliv jiné promo materiály z "
+"interiéru klapek, nebo prvních stránek. Toto je také dobré místo pro vložení "
+"traileru kniy, pokud takový máte."
+
+#: includes/metaboxes.php:239
+msgid "Cannot show reviews without a valid ISBN."
+msgstr "Náhled ohodnocení bez platného ASIN není možný."
+
+#: includes/metaboxes.php:267 includes/metaboxes.php:296
+msgid "Cannot show Kindle Instant Preview without a valid ASIN."
+msgstr "Kindle Instant náhled není bez platného ASIN možný."
+
+#: includes/metaboxes.php:267 includes/metaboxes.php:296
+msgid "(Find your ASIN)"
+msgstr "(Najít váš ASIN)"
+
+#: includes/metaboxes.php:273
+msgid "Valid ASIN"
+msgstr "Platný ASIN"
+
+#: includes/metaboxes.php:275
+msgid "Invalid ASIN"
+msgstr "ASIN ne neplatný"
+
+#: includes/metaboxes.php:303
+msgid "Choose Sample"
+msgstr "Vybrat Vzorek"
+
+#: includes/metaboxes.php:323
+msgid "Clear"
+msgstr "Očistit"
+
+#: includes/metaboxes.php:332
+msgid "Kindle Instant Preview"
+msgstr ""
+
+#: includes/metaboxes.php:333
+msgid "Displays a free instant preview of your book from Amazon."
+msgstr ""
+
+#: includes/metaboxes.php:338
+msgid "Sample Chapter"
+msgstr "Vzorová Kapitola"
+
+#: includes/metaboxes.php:339
+msgid ""
+"Upload a sample chapter from your book to give viewers a preview. We "
+"recommend using a .pdf format for the sample chapter."
+msgstr ""
+"Nahrajte vzorovou kapitolu z vaší knihy aby si ji návštěvníci mohli "
+"prohlédnout. Doporučujeme používat formát .pdf."
+
+#: includes/metaboxes.php:343
+msgid "Audio Sample"
+msgstr "Audio Vzorek"
+
+#: includes/metaboxes.php:344
+msgid ""
+"Upload a sample from your audiobook to give viewers a preview. We recommend "
+"using a .mp3 format for the sample."
+msgstr ""
+"Nahrát ukázku audioknihy a dát náhled zájemcům. Doporučujeme použít formát ."
+"mp3."
+
+#: includes/metaboxes.php:348
+msgid "Book Trailer"
+msgstr "Krátký popis knihy"
+
+#: includes/metaboxes.php:349
+msgid "Paste in the URL of a YouTube or Vimeo video that shows off your book."
+msgstr "Vložte adresu URL videa YouTube nebo Vimeo, který ukazuje vaši knihu."
+
+#: includes/metaboxes.php:355 templates/single-book-singlecolumn/meta.php:18
+msgid "List Price"
+msgstr "Seznam Cen"
+
+#: includes/metaboxes.php:356
+msgid ""
+"You can typically find the list price just above the ISBN barcode on the "
+"back cover of the book."
+msgstr ""
+"Obvykle můžete najít seznam cen hned nad ISBN čárovým kódem na zadním obalu "
+"knihy."
+
+#: includes/metaboxes.php:360
+msgid "Sale Price"
+msgstr "Prodejní Cena"
+
+#: includes/metaboxes.php:361
+msgid ""
+"Setting a sale price will cross out the normal price and show the sale price "
+"prominently."
+msgstr ""
+
+#: includes/metaboxes.php:366 templates/single-book-singlecolumn/meta.php:19
+msgid "eBook Price"
+msgstr "Cena audioknihy"
+
+#: includes/metaboxes.php:367
+msgid ""
+"If your book is available in multiple formats, you can use this to display "
+"the eBook price."
+msgstr ""
+"Pokud existuje Vaše kniha v různých formátech, můžete udat cenu napž. za "
+"audioknihu."
+
+#: includes/metaboxes.php:371 templates/single-book-singlecolumn/meta.php:20
+msgid "Audiobook Price"
+msgstr "Cena za audioknihu"
+
+#: includes/metaboxes.php:372
+msgid ""
+"If your book is available in multiple formats, you can use this to display "
+"the audiobook price."
+msgstr ""
+
+#: includes/metaboxes.php:378
+msgid "Publisher Name"
+msgstr "Jméno Publikatele"
+
+#: includes/metaboxes.php:382
+msgid "Publisher URL"
+msgstr "URL Publikatele"
+
+#: includes/metaboxes.php:383
+msgid ""
+"Setting a publisher URL will turn the \"Publisher Name\" into a link to this "
+"address."
+msgstr ""
+"Nastavení URL publikace zmení \"Jméno Publikatele\" na odkaz k této adrese"
+
+#: includes/metaboxes.php:387 templates/single-book-singlecolumn/meta.php:11
+#: templates/single-book-storefront/meta.php:7
+msgid "Publication Year"
+msgstr "Rok Publikace"
+
+#: includes/metaboxes.php:393
+msgid "Star Rating"
+msgstr "Hvězdičkové ohodnocení"
+
+#: includes/metaboxes.php:397
+msgid "Book Format"
+msgstr "Formát knihy"
+
+#: includes/metaboxes.php:398
+msgid "What format is the book presented in?"
+msgstr "Ve které formě je Vaše kniha?"
+
+#: includes/metaboxes.php:402
+msgid "Book Length"
+msgstr "Délka Knihy"
+
+#: includes/metaboxes.php:403
+msgid "Is this book a short story, a complete novel, or an epic drama?"
+msgstr "Je tato kniha krátký příběh, kompletní román, nebo epické drama?"
+
+#: includes/metaboxes.php:407 templates/single-book-singlecolumn/meta.php:14
+#: templates/single-book-storefront/meta.php:10
+msgid "Narrator"
+msgstr "Narrator"
+
+#: includes/metaboxes.php:408
+msgid "If applicable, who is the book narrated by?"
+msgstr "O čem kniha vypráví? "
+
+#: includes/metaboxes.php:412 templates/single-book-singlecolumn/meta.php:15
+#: templates/single-book-storefront/meta.php:11
+msgid "Illustrator"
+msgstr "Ilustrator"
+
+#: includes/metaboxes.php:413
+msgid "If applicable, who is the book illustrated by?"
+msgstr ""
+
+#: includes/metaboxes.php:420
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: includes/metaboxes.php:425
+msgid "Alternate Background Color"
+msgstr "Alternativní barva pozadí"
+
+#: includes/metaboxes.php:430
+msgid "Button Color"
+msgstr "Barva tlačítka"
+
+#: includes/metaboxes.php:444 includes/metaboxes.php:447
+msgid "Book Cover Image"
+msgstr "Obrázek Obalu Knihy"
+
+#: includes/metaboxes.php:447
+msgid "Set cover image"
+msgstr "Nastavit obrázek pozadi"
+
+#: includes/metaboxes.php:451
+msgid "ISBN"
+msgstr "ISBN"
+
+#: includes/metaboxes.php:457
+msgid ""
+"This is the International Standard Book Number, used to populate GoodReads "
+"and Amazon reviews."
+msgstr ""
+
+#: includes/metaboxes.php:462
+msgid "ASIN"
+msgstr "ASIN"
+
+#: includes/metaboxes.php:468
+msgid ""
+"This is the Amazon Standard Identification Number, used to populate Amazon "
+"reviews and Kindle Instant Preview."
+msgstr ""
+
+#: includes/metaboxes.php:475
+msgid "Show ISBN/ASIN on book page"
+msgstr ""
+
+#: includes/metaboxes.php:539
+msgid "Remove"
+msgstr "Odstránit"
+
+#: includes/metaboxes.php:548
+msgid "Button"
+msgstr "Tlačítko"
+
+#: includes/metaboxes.php:549
+msgid "Text Bullet"
+msgstr "Textová Gulka"
+
+#: includes/metaboxes.php:566
+msgid "Activate Amazon and Barnes &amp; Noble Buttons"
+msgstr "Aktivujte Amazon a Barns &amp; Noble tlačítko"
+
+#: includes/metaboxes.php:569
+msgid ""
+"Want more options? Upgrade your MyBookTable and get the Universal Buy Button."
+msgstr ""
+"Chcete více možností? Aktualizujte svou MyBookTable a získejte Univerzální "
+"Tlačítko Nákupu"
+
+#: includes/metaboxes.php:627
+msgid "Book Number"
+msgstr "Číslo Knihy"
+
+#: includes/metaboxes.php:628
+msgid "Use this to order books within a series."
+msgstr "Použijte toto pro objednávku knih v sérii."
+
+#: includes/post_types.php:23
+msgid "New Book"
+msgstr "Nová Kniha"
+
+#: includes/post_types.php:24
+msgid "Edit Book"
+msgstr "Editovat Knihu"
+
+#: includes/post_types.php:25
+msgid "View Book"
+msgstr "Prohlédnout Knihu"
+
+#: includes/post_types.php:26
+msgid "Update Book"
+msgstr "Aktualizovat Knihu"
+
+#: includes/post_types.php:27
+msgid "Search Books"
+msgstr "Hledat Knihy"
+
+#: includes/post_types.php:28
+msgid "Parent Book"
+msgstr "Kniha Rodiču"
+
+#: includes/post_types.php:29
+msgid "Parent Book:"
+msgstr "Rodičovská Kniha"
+
+#: includes/setup.php:226
+msgid "MyBookTable Rewrites Error"
+msgstr "MyBookTable Popisuje Chybu"
+
+#: includes/setup.php:227
+msgid ""
+"You have a plugin or theme that has post types or taxonomies that are "
+"conflicting with MyBookTable. MyBookTable pages will not display correctly."
+msgstr ""
+
+#: includes/setup.php:328
+msgid "Welcome to MyBookTable"
+msgstr ""
+
+#: includes/setup.php:328
+msgid "You're almost ready to start promoting your books"
+msgstr ""
+
+#: includes/setup.php:329
+msgid "Install MyBookTable Pages"
+msgstr ""
+
+#: includes/setup.php:330
+msgid "Skip setup"
+msgstr ""
+
+#: includes/setup.php:338
+msgid "MyBookTable has been installed"
+msgstr ""
+
+#: includes/setup.php:338
+msgid "You're ready to start promoting your books"
+msgstr ""
+
+#: includes/setup.php:339
+msgid "Show Me How"
+msgstr ""
+
+#: includes/setup.php:340
+msgid "Thanks, I Got This"
+msgstr ""
+
+#: includes/setup.php:348
+msgid "Setup your License Key"
+msgstr "MyBookTable Licenční Klíč"
+
+#: includes/setup.php:348
+msgid "MyBookTable needs your License key to enable enhanced features"
+msgstr "MyBookTable potřebuje váš licenční klíč aktivovat rozšířené funkce"
+
+#: includes/setup.php:349 includes/setup.php:358
+msgid "Go To Settings"
+msgstr "Jděte Do Nastavení"
+
+#: includes/setup.php:357
+msgid "Setup your Amazon and Barnes &amp; Noble Buttons"
+msgstr "Nastavte svůj Amazon at Barnes &; Noble Tlačítko"
+
+#: includes/setup.php:357
+msgid "MyBookTable needs your input to enable these features"
+msgstr "MyBookTable potřebuje váš vstup pro povolení těchto možností"
+
+#: includes/setup.php:367
+msgid "Enable your Upgrade"
+msgstr "Povolte své Aktualizace"
+
+#: includes/setup.php:367
+msgid ""
+"Download or Activate your MyBookTable Upgrade plugin to enable your advanced "
+"features!"
+msgstr ""
+"Stáhněte nebo aktivovat MyBookTable Upgrade plugin umožňuje pokročilé funkce!"
+
+#: includes/setup.php:376
+msgid "Help Improve MyBookTable"
+msgstr "Pomozte zlepšit MyBookTable"
+
+#: includes/setup.php:376
+msgid ""
+"Please help make MyBookTable easier to use by allowing it to gather "
+"anonymous usage statistics."
+msgstr ""
+"Prosím, pomozte usnadnit používání tím, že jej shromažďovat anonymní "
+"statistiky využití MyBookTable."
+
+#: includes/setup.php:377
+msgid "No Problem"
+msgstr "Bez Problému"
+
+#: includes/setup.php:378
+msgid "I'd Rather Not"
+msgstr "Radši Ne"
+
+#: includes/setup.php:390 includes/setup.php:472
+msgid "Learn the Secrets of Amazing Author Websites"
+msgstr "Poznejte Tajemství Skvělých Autorů Web Stránek"
+
+#: includes/setup.php:391
+msgid ""
+"Want an author website that doesn't just look good, but also boosts book "
+"sales? Find out in this practical (and totally free) course by Author Media "
+"CEO, Thomas Umstattd Jr."
+msgstr ""
+
+#: includes/setup.php:394
+msgid "Let's do it!"
+msgstr ""
+
+#: includes/setup.php:395
+msgid "No, thanks"
+msgstr ""
+
+#: includes/setup.php:473
+msgid ""
+"Thank you for subscribing! Please check your inbox for a confirmation letter."
+msgstr ""
+
+#: includes/setup.php:479
+msgid "Go to Yahoo! Mail"
+msgstr ""
+
+#: includes/setup.php:482
+msgid "Go to Hotmail"
+msgstr "HotMail"
+
+#: includes/setup.php:485
+msgid "Go to Gmail"
+msgstr "GMail"
+
+#: includes/setup.php:488
+msgid "Go to AOL Mail"
+msgstr "AOIL Mail"
+
+#: includes/setup.php:505
+msgid "New!"
+msgstr "Nové!"
+
+#: includes/setup.php:506
+msgid ""
+"Use the new Display Mode selector to change the way your book page looks!"
+msgstr ""
+"Použijte nový výběr Módu Displeje pro změnu způsobu jak vypadá strana vaší "
+"knihy!"
+
+#: includes/setup.php:508
+msgid "Cool, thanks!"
+msgstr "Cool, díky!"
+
+#: includes/setup.php:584
+msgid "Book Table"
+msgstr "Tabulka knih"
+
+#: includes/taxonomies.php:29
+msgid "All Authors"
+msgstr "Všichni autoři"
+
+#: includes/taxonomies.php:30 includes/taxonomies.php:51
+#: includes/taxonomies.php:72 includes/taxonomies.php:93
+msgid "Add New"
+msgstr "Vytvořit formulář"
+
+#: includes/taxonomies.php:31
+msgid "Add New Author"
+msgstr "Přidat nového autora"
+
+#: includes/taxonomies.php:32
+msgid "New Author"
+msgstr "Nový autor"
+
+#: includes/taxonomies.php:33
+msgid "Edit Author"
+msgstr "Upravit autora"
+
+#: includes/taxonomies.php:34
+msgid "View Authors"
+msgstr "Výčet autorů"
+
+#: includes/taxonomies.php:35
+msgid "Update Author"
+msgstr "Upravit autora"
+
+#: includes/taxonomies.php:36
+msgid "Search Authors"
+msgstr "Hledat podle autora"
+
+#: includes/taxonomies.php:37
+msgid "Parent Author"
+msgstr ""
+
+#: includes/taxonomies.php:38
+msgid "Parent Authors:"
+msgstr ""
+
+#: includes/taxonomies.php:42
+msgctxt "URL slug"
+msgid "authors"
+msgstr "Autoři"
+
+#: includes/taxonomies.php:50
+msgid "All Genres"
+msgstr ""
+
+#: includes/taxonomies.php:52
+msgid "Add New Genre"
+msgstr ""
+
+#: includes/taxonomies.php:53
+msgid "New Genre"
+msgstr ""
+
+#: includes/taxonomies.php:54
+msgid "Edit Genre"
+msgstr ""
+
+#: includes/taxonomies.php:55
+msgid "View Genres"
+msgstr ""
+
+#: includes/taxonomies.php:56
+msgid "Update Genre"
+msgstr ""
+
+#: includes/taxonomies.php:57
+msgid "Search Genres"
+msgstr ""
+
+#: includes/taxonomies.php:58
+msgid "Parent Genre"
+msgstr ""
+
+#: includes/taxonomies.php:59
+msgid "Parent Genres:"
+msgstr ""
+
+#: includes/taxonomies.php:63
+msgctxt "URL slug"
+msgid "genre"
+msgstr ""
+
+#: includes/taxonomies.php:71
+msgid "All Series"
+msgstr ""
+
+#: includes/taxonomies.php:73
+msgid "Add New Series"
+msgstr ""
+
+#: includes/taxonomies.php:74
+msgid "New Series"
+msgstr ""
+
+#: includes/taxonomies.php:75
+msgid "Edit Series"
+msgstr ""
+
+#: includes/taxonomies.php:76
+msgid "View Series"
+msgstr ""
+
+#: includes/taxonomies.php:77
+msgid "Update Series"
+msgstr "Upravit sérii"
+
+#: includes/taxonomies.php:78
+msgid "Search Series"
+msgstr "Hledat série"
+
+#: includes/taxonomies.php:79
+msgid "Parent Series"
+msgstr "Nadřazené serie"
+
+#: includes/taxonomies.php:80
+msgid "Parent Series:"
+msgstr "Nadřazená série"
+
+#: includes/taxonomies.php:84
+msgctxt "URL slug"
+msgid "series"
+msgstr "Série"
+
+#: includes/taxonomies.php:92
+msgid "All Tags"
+msgstr "Všechny štítky"
+
+#: includes/taxonomies.php:94
+msgid "Add New Tag"
+msgstr "Přidat štítek"
+
+#: includes/taxonomies.php:95
+msgid "New Tag"
+msgstr "Nový štítek"
+
+#: includes/taxonomies.php:96
+msgid "Edit Tag"
+msgstr "Upravit štítek"
+
+#: includes/taxonomies.php:97
+msgid "View Tags"
+msgstr "Upravit štítky"
+
+#: includes/taxonomies.php:98
+msgid "Update Tag"
+msgstr "Náhled štítku"
+
+#: includes/taxonomies.php:99
+msgid "Search Tags"
+msgstr "Vyhledat štítek"
+
+#: includes/taxonomies.php:100
+msgid "Parent Tag"
+msgstr "Nadřazený štítek"
+
+#: includes/taxonomies.php:101
+msgid "Parent Tags:"
+msgstr "Štítek"
+
+#: includes/taxonomies.php:105
+msgctxt "URL slug"
+msgid "tag"
+msgstr ""
+
+#: includes/taxonomies.php:152 includes/taxonomies.php:164
+msgid "Image"
+msgstr "Obrázek"
+
+#: includes/taxonomies.php:155 includes/taxonomies.php:166
+msgid "Taxonomy Image"
+msgstr "Obrázek Taxonomy"
+
+#: includes/taxonomies.php:199 includes/taxonomies.php:214
+msgid "Priority"
+msgstr "Priorita"
+
+#: includes/templates.php:571
+msgid "Back"
+msgstr ""
+
+#: includes/templates.php:572
+msgid "More Books"
+msgstr ""
+
+#: includes/templates.php:732
+msgid "eBook"
+msgstr "eKniha"
+
+#: includes/templates.php:735
+msgid "Audiobook"
+msgstr "Audiokniha"
+
+#: includes/templates.php:755
+msgid "View Book Sample"
+msgstr ""
+
+#: includes/templates.php:801
+msgid "Other book sellers"
+msgstr ""
+
+#: includes/templates.php:821
+msgid "Buy This Book Online"
+msgstr ""
+
+#: includes/templates.php:834
+msgid "Buy now!"
+msgstr ""
+
+#: includes/templates.php:857
+msgid "More info"
+msgstr ""
+
+#: includes/templates.php:889
+msgid "Publisher"
+msgstr "Vydavatel"
+
+#: includes/templates.php:1054
+msgid "Rating"
+msgstr "Ohodnocení"
+
+#: includes/templates.php:1077
+msgid "City"
+msgstr "Město"
+
+#: includes/templates.php:1078
+msgid "Zip"
+msgstr ""
+
+#: includes/templates.php:1079
+msgid "Find Store"
+msgstr "Najfi obchod"
+
+#: includes/templates.php:1215
+msgid "Order Now!"
+msgstr "Objednejte Teď!"
+
+#: includes/templates.php:1368
+msgid "Check out this book!"
+msgstr ""
+
+#: includes/templates.php:1397
+msgid "About the Author"
+msgstr "O autorovi"
+
+#: includes/templates.php:1416
+msgid "Order Now"
+msgstr "Objednat"
+
+#: includes/templates.php:1421
+msgid "Share"
+msgstr "Sdílet"
+
+#: includes/templates.php:1427
+#, php-format
+msgid "Other %s in \"%s\""
+msgstr ""
+
+#: includes/templates.php:1433
+msgid "Preview"
+msgstr "Nahlédni"
+
+#: includes/templates.php:1438
+msgid "Look Inside"
+msgstr "Podívej se Dovnitř"
+
+#: includes/templates.php:1443
+msgid "Find A Local Bookstore"
+msgstr "Najít Lokální Knihovnu"
+
+#: includes/templates.php:1448
+msgid "Reviews"
+msgstr "Recenze"
+
+#: mybooktable.php:32
+msgid "PHP Out of Date"
+msgstr "Zastaralá verze PHP"
+
+#: mybooktable.php:33
+#, php-format
+msgid ""
+"MyBookTable requires at least PHP 5.3.9. You are currently running PHP %s. "
+"Please contact your hosting provider to request that they update your PHP."
+msgstr ""
+"BookTable požaduje minimálně PHP 5.3.9. Aktuálně používáte PHP %s. Prosím "
+"kontaktujte svého poskytovatele hostingu pro požadavek o aktualizaci své PHP."
+
+#: mybooktable.php:128
+msgid "Purchase Upgrade"
+msgstr "Kupte si Upgrade"
+
+#: mybooktable.php:134
+msgid "Write a Review"
+msgstr "MyBookTable od Author Media"
+
+#: templates/single-book-singlecolumn/meta.php:3
+msgid "Details"
+msgstr "Detailu"
+
+#: templates/single-book-singlecolumn/meta.php:12
+#: templates/single-book-storefront/meta.php:8
+msgid "Format"
+msgstr "Formát"
+
+#: templates/single-book-singlecolumn/meta.php:13
+#: templates/single-book-storefront/meta.php:9
+msgid "Length"
+msgstr "Délka"
+
+#. Plugin Name of the plugin/theme
+msgid "MyBookTable Bookstore by Author Media"
+msgstr "MyBookTable Knižní obchod od Author Media"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.authormedia.com/mybooktable/"
+msgstr "http://www.authormedia.com/mybooktable/"
+
+#. Description of the plugin/theme
+msgid ""
+"A WordPress Bookstore Plugin to help authors boost book sales on sites like "
+"Amazon and Apple iBooks with great-looking book pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Author Media"
+msgstr "Autor media"
+
+#. Author URI of the plugin/theme
+msgid "http://www.authormedia.com"
+msgstr "http://www.authormedia.com"
